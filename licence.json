@@ -1,92 +1,47 @@
 [
   {
-    "name": "RAJEEV KUMAR",
-    "sonOf": "SAHENDRA YADAV",
-    "licenseNo": "A01742V11PK9964G",
-    "panNo": "FQCPK9964G",
-    "status": "Verified",
-    "mobile": "7488550211",
-    "address": "VILL- AFJALNAGAR, PO- LAUNA, PS- TARAPUR, DIST-MUNGER, BIHAR"
-  },
-  {
-    "name": "PRATIBHA KUMARI",
-    "sonOf": "RANJEET KUMAR RAY",
-    "licenseNo": "A02970V11PK0218B",
-    "panNo": "DSGPK0218B",
-    "status": "Verified",
-    "mobile": "7633876790",
-    "address": "VILL-POUKARI,PO=KHAIRA PS-GANGTA,MUNGER,BIHAR"
-  },
-  {
-    "name": "AMIT KUMAR PASWAN",
-    "sonOf": "ASHOK PASWAN",
-    "licenseNo": "A08914V11027PL23",
-    "panNo": "FBAPP0503D",
-    "status": "Verified",
-    "mobile": "6299561114",
-    "address": "GOBADDA, GOBADDA, MUNGER, BIHAR"
-  },
-  {
-    "name": "DHARMBER KUMAR",
-    "sonOf": "GANDHI YADAV",
-    "licenseNo": "A08914V11027PL23",
-    "panNo": "ITXPK8437H",
-    "status": "Verified",
-    "mobile": "7549726165",
-    "address": "BIRGOWN,MATHURA,SAHABGANJ,BELHAR,PO-BELHAR,BANKA,BIHAR"
-  },
-  {
-    "name": "RAHUL KUMAR",
-    "sonOf": "NAVEEN MANDAL",
-    "licenseNo": "A00583V11PK6590H",
-    "panNo": "LLWPK6590H",
-    "status": "Verified",
-    "mobile": "8877361884",
-    "address": "VILL+PO=GOBADDA, PS-SHAMPUR, MUNGER, BIHAR"
-  },
-  {
-    "name": "VIKKY KUMAR SINGH",
-    "sonOf": "SHAMBHU SHARAN SINGH",
-    "licenseNo": "A03301V11PS4486M",
-    "panNo": "FJRP54486M",
-    "status": "Verified",
-    "mobile": "7761981448",
-    "address": "VILL+PO-PARSANDO, PS- HAVELI KHARAGPUR, DIST-MUNGER, BIHAR"
-  },
-  {
-    "name": "VIVEKANAND SINGH",
-    "sonOf": "PARMESHWAR SINGH",
-    "licenseNo": "A00505V11PS6501P",
-    "panNo": "KYXPS6501P",
-    "status": "Verified",
-    "mobile": "9162978555",
-    "address": "VILL+PO-TILWARIYA, PS- HAVELI KHARAGPUR, DIST-MUNGER, BIHAR"
-  },
-  {
     "name": "DEEPAK KUMAR",
     "sonOf": "KRISHNA MURARI",
+    "refDetail": "MITHLESH KUMAR",
     "licenseNo": "A00023V11PK8326J",
+    "district": "MUNGER",
+    "pinCode": "811213",
+    "address": "VILL-WEST AZIMGANJ, PO+PS-HAVELI KHARAGPUR, MUNGER, BIHAR",
+    "aadharCardNo": "716220100023",
     "panNo": "HKEPK8326J",
-    "status": "Verified",
     "mobile": "7903619991",
-    "address": "VILL-WEST AZIMGANJ, PO+PS-HAVELI KHARAGPUR, MUNGER, BIHAR"
+    "status": "Verified",
+    "issuedAt": "2025-09-24T00:00:00Z",
+    "expiresAt": "2028-09-24T00:00:00Z"
   },
   {
     "name": "DEEPAK KUMAR",
     "sonOf": "ANIL MANDAL",
+    "refDetail": "MITHLESH KUMAR",
     "licenseNo": "A05137V11PK2252E",
+    "district": "MUNGER",
+    "pinCode": "811213",
+    "address": "VILL- DULARPUR, PO- DULARPUR, PS- KHARAGPUR, DIST-MUNGER, BIHAR",
+    "aadharCardNo": "691532295137",
     "panNo": "BWHPK2252E",
-    "status": "Verified",
     "mobile": "7488889273",
-    "address": "VILL- DULARPUR, PO- DULARPUR, PS- KHARAGPUR, DIST-MUNGER, BIHAR"
+    "status": "Verified",
+    "issuedAt": "2025-09-24T00:00:00Z",
+    "expiresAt": "2028-09-24T00:00:00Z"
   },
   {
     "name": "MONI KUMARI",
     "sonOf": "ROSHAN KUMAR",
+    "refDetail": "MITHLESH KUMAR",
     "licenseNo": "A00983V11LMEP76N",
+    "district": "MUNGER",
+    "pinCode": "811214",
+    "address": "VILL- MATADIH, PO- JAMALPUR, PS- JAMALPUR, DIST-MUNGER, BIHAR",
+    "aadharCardNo": "558580220983",
     "panNo": "LMEPK6576N",
-    "status": "Verified",
     "mobile": "7542925446",
-    "address": "VILL- MATADIH, PO- JAMALPUR, PS- JAMALPUR, DIST-MUNGER, BIHAR"
+    "status": "Verified",
+    "issuedAt": "2025-09-24T00:00:00Z",
+    "expiresAt": "2028-09-24T00:00:00Z"
   }
 ]
